@@ -1,0 +1,14 @@
+name: deepl_demo
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - jupyter
+  - imageio
+  - imageio-ffmpeg
+  - matplotlib
+  - scikit-image
+  - dlib
+  - opencv
+  - imutils
