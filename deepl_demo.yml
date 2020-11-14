@@ -1,4 +1,4 @@
-name: landmark_demo
+name: deepl_demo
 channels:
   - conda-forge
   - defaults
