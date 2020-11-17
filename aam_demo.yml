@@ -3,14 +3,10 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.6
+  - python=3.6 #ran into troubles with python3.8
   - jupyter
   - imageio
-  - imageio-ffmpeg
   - matplotlib
-  - scikit-image
-  - opencv
   - menpo
-  - menpo
-  - menpofit
   - menpodetect
+  - menpofit
