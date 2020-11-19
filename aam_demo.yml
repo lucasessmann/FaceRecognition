@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.6 #ran into troubles with python3.8
+  - python=3.6 
   - jupyter
   - imageio
   - imageio-ffmpeg
