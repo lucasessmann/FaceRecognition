@@ -1,4 +1,4 @@
-name: deepl_demo
+name: cascade_demo
 channels:
   - conda-forge
   - defaults
